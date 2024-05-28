@@ -51,7 +51,7 @@ const Hero = () => {
           <motion.h2 variants={textVariants}>IVAN ZHOVNYCH</motion.h2>
           <motion.h1 variants={textVariants}>Full Stack Developer</motion.h1>
           <motion.div variants={textVariants} className="buttons">
-            <Link to="Portfolio" smooth={true} duration={500}>
+            <Link to="portfolio" smooth={true} duration={500}>
               <motion.button variants={textVariants}>My Works</motion.button>
             </Link>
             <Link to="Contact" smooth={true} duration={500}>

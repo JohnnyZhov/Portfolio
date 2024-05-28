@@ -13,7 +13,7 @@ const items = [
   {
     id: 2,
     title: "Optimiz",
-    link: "https://www.optimiz.ca/",
+    link: "https://www.optimiz.ca/my-internship-at-optimiz/",
     img: "./Project3.png",
     desc: "At Optimiz, I closely collaborated with ‘Florida Power and Light’ to construct a software for testing IVR systems using Python, Twilio's API, PostgreSQL and other tools.",
   },
